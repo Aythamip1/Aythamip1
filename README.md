@@ -2,6 +2,14 @@
 
 # Aythami Pérez González
 
+**Edad:** 32
+
+**Estudios:** Grado en Ingeniería Industrial esp. Electrónica y Automatica Industrial
+
+**Trabajo:** Electricista
+
+**Aficiones:** Senderismo, buceo, lectura,...
+
 <!--
 **Aythamip1/Aythamip1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
